@@ -15,7 +15,7 @@ const workStyle = {
     marginLeft: "15px",
   },
   section: {
-    padding: "70px 0",
+    padding: "70px 30px",
     textAlign: "center",
   },
   title: {
